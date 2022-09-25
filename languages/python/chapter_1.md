@@ -54,7 +54,7 @@ The first line of this example is the command that starts the Python interpreter
 
 Alternatively, you can write a program in a file and use the interpreter to execute the contents of the file. Such a file is called a **script**. For example, we used a text editor to create a file named latoya.py with the following contents:
 
-```python
+```
 print(1 + 1)
 ```
 
@@ -62,7 +62,7 @@ By convention, files that contain Python programs have names that end with `.py`
 
 To execute the program, we have to tell the interpreter the name of the script:
 
-```python
+```
 $ python latoya.py
 2
 ```
@@ -171,7 +171,7 @@ Here are some suggestions for reading programs (and other formal languages). Fir
 
 Traditionally, the first program written in a new language is called "Hello, World!" because all it does is display the words, "Hello, World!" In Python, it looks like this:
 
-```python
+```
 print("Hello, World!")
 ```
 
