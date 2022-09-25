@@ -1,4 +1,4 @@
-<h1 style="font-size: 28px">Chapter 1 - The way of the programmer</h1>
+<h1 style="font-size: 28px">Chapter 1 - The Way of the Programmer</h1>
 
 -   [1\. Summary](#summary)
 -   [2\. The Python programming language](#the_python_programming_language)

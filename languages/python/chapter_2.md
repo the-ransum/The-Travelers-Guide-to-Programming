@@ -1,4 +1,4 @@
-<h1 style="font-size: 28px">Chapter 2 - Variables, expressions and statements</h1>
+<h1 style="font-size: 28px">Chapter 2 - Variables, Expressions and Statements</h1>
 
 -   [1\. Values and Types](#values_and_types)
 -   [2\. Variables](#variables)
