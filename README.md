@@ -12,12 +12,12 @@ sources unless completely necessary.
 
 ## Subjects
 
-For topics that are currently work in progress, take a look at [What is coming?](#what-is-coming)
+For topics that are currently work in progress, take a look at [What is coming?](#whats-to-come)
 
 - Programming Languages
   - [Python](subjects/python/README.md) - _LAST PHASE_
 
-## What is coming?
+## What's to come?
 
 In time, there will be milestones added to allow for tracking the upcoming details on the 
 following and future subjects.
@@ -43,9 +43,6 @@ following and future subjects.
 
 Thinking of contributing to the Travelers Guide to Programming? That's great! We'd love to have you. Take a quick detour to [CONTRIBUTING.md](CONTRIBUTING.md) on where and how you can get involed with the community.
 
-## Contributions
-
-If you're looking to make contributions, for steps and resources follow the [DEVELOPMENT](DEVELOPMENT.md) guide for an overall rundown.
 
 ## License
 
