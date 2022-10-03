@@ -6,7 +6,7 @@
 - [Chapter 2](chapter_2.md) - Variables, expressions and statements
 - [Chapter 3](chapter_3.md) - Functions
 - [Chapter 4](chapter_4.md) - Conditionals and recursion
-- [Chapter 5](chapter_5.md) - Fruitful functions
+- [Chapter 5](chapter_5.md) - Functions
 - [Chapter 6](chapter_6.md) - Iteration
 - [Chapter 7](chapter_7.md) - Strings
 - [Chapter 8](chapter_8.md) - Lists

@@ -1,30 +1,47 @@
 # Travelers Guide to Programming
 
-This is a project development to help provide all the information you require to dive in Computer Science & Programming. __It's intent is to be community driven and free as hell__.
-The material is focused for those who are driven by self-teaching so every layer of teaching material will be included as well including examples.
+The Travelers Guide to Programming is an open-sourced project intended to help provide all the necessary 
+information and resources required for anyone looking to dive into the field of Computer Science / 
+Programming without having to break the bank or be stuck behind a paywall or subscription.
+**No paywall, no subscriptions, no excuses. This shits free!**
 
-> **No paywall, no subscriptions, no excuses. This shits free!**
+![Header Image](assets/header.png)
 
+The overall scope is to have everything completely included with no necessary requirements from external 
+sources unless completely necessary.
 
-## General Understandings
+## Subjects
 
-Subjects under **General Understanding** are by no means required, they are just provided for the chance that it may be needed for a brush up or crash course.
+For topics that are currently work in progress, take a look at [What is coming?](#what-is-coming)
+
+- Programming Languages
+  - [Python](subjects/python/README.md) - _LAST PHASE_
+
+## What is coming?
+
+In time, there will be milestones added to allow for tracking the upcoming details on the 
+following and future subjects.
+
+- General
+  - [Introduction to Computer Science](subjects/introduction-to-computer-science/README.md)
 
 - Mathematics
-  - [Pre-algebra](#)
-  - [Algebra](#)
-  - [Triginometry](#)
-  - [Pre-calculus](#)
-  - [Calculus](#)
+  - [Pre Algebra](subjects/pre-algebra/README.md)
+  - [Algebra I](subjects/algebra-i/README.md)
+  - [Algebra II](subjects/algebra-ii/README.md)
+  - [Pre Calculus](subjects/pre-calculus/README.md)
+  - [Calculus I](subjects/calculus-i/README.md)
+  - [Calculus II](subjects/calculus-ii/README.md)
 
-- Computer Science
-  - [Introduction to Programming](#)
+- Programming Languages
+  - [HTML](subjects/html/README.md)
+  - [CSS](subjects/css/README.md)
+  - [Javascript](subjects/javascript/README.md)
+  - [Bash](subjects/bash/README.md)
 
+## Looking to Contribute?
 
-## Programming Languages
-
--   [Python](languages/python/README.md)
-
+Thinking of contributing to the Travelers Guide to Programming? That's great! We'd love to have you. Take a quick detour to [CONTRIBUTING.md](CONTRIBUTING.md) on where and how you can get involed with the community.
 
 ## Contributions
 
@@ -32,4 +49,4 @@ If you're looking to make contributions, for steps and resources follow the [DEV
 
 ## License
 
-MIT
+[MIT](LICENSE.md)

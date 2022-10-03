@@ -1,4 +1,4 @@
-# Chapter 5 - Fruitful functions
+# Chapter 5 - Functions
 
 ## 5.1 Return values
 
@@ -405,13 +405,13 @@ This program demonstrates a pattern sometimes called a **guardian**. The first t
 
 ## 5.9 Glossary
 
-| Term | Definition | 
-| -- | -- |
-| fruitful function | A function that yields a return value. |
-| return value | The value provided as the result of a function call. |
-| temporary variable | A variable used to store an intermediate value in a complex calculation. |
-| dead code | Part of a program that can never be executed, often because it appears after a `return` statement. |
-| `None` | A special Python value returned by functions that have no return statement, or a return statement without an argument. |
-| incremental development | A program development plan intended to avoid debugging by adding and testing only a small amount of code at a time. |
-| scaffolding | Code that is used during program development but is not part of the final version. |
-| guardian | A condition that checks for and handles circumstances that might cause an error. |
+| Term                    | Definition                                                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| fruitful function       | A function that yields a return value.                                                                                 |
+| return value            | The value provided as the result of a function call.                                                                   |
+| temporary variable      | A variable used to store an intermediate value in a complex calculation.                                               |
+| dead code               | Part of a program that can never be executed, often because it appears after a `return` statement.                     |
+| `None`                  | A special Python value returned by functions that have no return statement, or a return statement without an argument. |
+| incremental development | A program development plan intended to avoid debugging by adding and testing only a small amount of code at a time.    |
+| scaffolding             | Code that is used during program development but is not part of the final version.                                     |
+| guardian                | A condition that checks for and handles circumstances that might cause an error.                                       |
