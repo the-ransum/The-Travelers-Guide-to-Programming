@@ -1,4 +1,4 @@
-# Travelers Guide to Programming
+# The Travelers Guide to Programming
 
 The Travelers Guide to Programming is an open-sourced project intended to help provide all the necessary 
 information and resources required for anyone looking to dive into the field of Computer Science / 
