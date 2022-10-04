@@ -15,7 +15,7 @@ sources unless completely necessary.
 For topics that are currently work in progress, take a look at [What is coming?](#whats-to-come)
 
 - Programming Languages
-  - [Python](subjects/python/README.md) - _LAST PHASE_
+  - [Python](subjects/python/README.md)
 
 ## What's to come?
 
