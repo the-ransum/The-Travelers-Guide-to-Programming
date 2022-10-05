@@ -10,34 +10,30 @@ Programming without having to break the bank or be stuck behind a paywall or sub
 The overall scope is to have everything completely included with no necessary requirements from external 
 sources unless completely necessary.
 
+
 ## Subjects
 
-For topics that are currently work in progress, take a look at [What is coming?](#whats-to-come)
-
-- Programming Languages
-  - [Python](subjects/python/README.md)
-
-## What's to come?
-
-In time, there will be milestones added to allow for tracking the upcoming details on the 
-following and future subjects.
+In time, there will be milestones added to allow for better tracking of upcoming details on the 
+future subjects that will be published, but as of currently here's the following -
 
 - General
-  - [Introduction to Computer Science](subjects/introduction-to-computer-science/README.md)
+  * Introduction to Computer Science - _WIP_
 
 - Mathematics
-  - [Pre Algebra](subjects/pre-algebra/README.md)
-  - [Algebra I](subjects/algebra-i/README.md)
-  - [Algebra II](subjects/algebra-ii/README.md)
-  - [Pre Calculus](subjects/pre-calculus/README.md)
-  - [Calculus I](subjects/calculus-i/README.md)
-  - [Calculus II](subjects/calculus-ii/README.md)
+  * Pre Algebra - _WIP_
+  * Algebra I - _WIP_
+  * Algebra II - _WIP_
+  * Pre Calculus - _WIP_
+  * Calculus I - _WIP_
+  * Calculus II - _WIP_
 
 - Programming Languages
-  - [HTML](subjects/html/README.md)
-  - [CSS](subjects/css/README.md)
-  - [Javascript](subjects/javascript/README.md)
-  - [Bash](subjects/bash/README.md)
+  * [Python](subjects/python/README.md)
+  * HTML - _WIP_
+  * CSS - _WIP_
+  * Javascript - _WIP_
+  * Bash - _WIP_
+
 
 ## Looking to Contribute?
 
